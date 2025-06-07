@@ -1,3 +1,5 @@
 # SQL-Practice
-Process Data from Dirty to Clean | Sorting | Formatting | Calculations with SQL. <br>
-This is my learing notes of SQL in Google Data Analytics Professional Certificate Program.
+The project purpose is to gain insights into league performance across seasons and countries. <br>
+• Identity which countries or leagues are more competitive or high-scoring.<br>
+• To visualize the football evaluation across countries.<br>
+This is my learing practice of SQL.
